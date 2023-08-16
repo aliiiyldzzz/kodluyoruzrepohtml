@@ -1,0 +1,17 @@
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.nav{
+    background-color:rgb(196, 196, 196);
+    text-align: center;
+  
+}
+article{
+    background-color: aqua;    
+    text-align: justify;
+    width: 100%;
+    float: left;
+}
